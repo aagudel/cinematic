@@ -1,9 +1,7 @@
-# cinematic
+# CINEMATIC
 A robot arm simulator that solves the inkerse kinematic problem for a 3dof robot arm on DOS
 
-This was a school project written in October 2001 and only works for the old DOS over Win95/98. It used 3D graphics.
-
-·CINEMATIC: MANUAL DE USUARIO·
+Note: This was a school project written in October 2001 and only works for the old DOS over Win95/98. It used 3D graphics.
 
 # INTRODUCCIÓN
 
